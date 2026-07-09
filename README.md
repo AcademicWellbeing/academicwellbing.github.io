@@ -1,1 +1,1 @@
-# resthesis.github.io
+# academicwellbing.github.io
