@@ -1,1 +1,1 @@
-# academicwellbing.github.io
+# Academic Wellbeing
